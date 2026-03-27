@@ -19,7 +19,7 @@ Provides a high-level summary of overall business performance, including net sal
 This section helps stakeholders quickly assess whether the business is improving or declining.
 
 Key dashboard view:
-![Executive Overview](executive-overview.JPG)
+![Executive Overview](executive -overview.JPG)
 
 ### Outlet Analysis
 Analyzes performance across different outlets to identify top-performing and underperforming locations.  
