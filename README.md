@@ -19,8 +19,8 @@ Provides a high-level summary of overall business performance, including net sal
 This section helps stakeholders quickly assess whether the business is improving or declining.
 
 Key Insight: Despite strong gross sales, high return rates are impacting net performance and overall growth.
-Key dashboard view:
 
+Key dashboard view:
 ![Executive Overview](executive-overview.JPG)
 
 ### Outlet Analysis
