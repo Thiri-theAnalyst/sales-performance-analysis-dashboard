@@ -18,7 +18,9 @@ However, challenges exist in tracking performance, managing product returns, and
 Provides a high-level summary of overall business performance, including net sales, gross sales, total returns, return rate, and MoM growth.  
 This section helps stakeholders quickly assess whether the business is improving or declining.
 
+Key Insight: Despite strong gross sales, high return rates are impacting net performance and overall growth.
 Key dashboard view:
+
 ![Executive Overview](executive-overview.JPG)
 
 ### Outlet Analysis
@@ -29,6 +31,8 @@ Focus areas include:
 - Sales distribution efficiency  
 
 This helps identify operational issues and opportunities at the outlet level.
+
+Key Insight: Several high-revenue outlets also show high return rates, indicating inefficiencies in distribution or demand mismatch.
 
 Key dashboard view:
 ![Outlet Analysis](outlet-analysis.JPG)
@@ -42,6 +46,8 @@ Focus areas include:
 
 This helps optimize product mix and reduce inefficiencies.
 
+Key Insight: Some products generate high sales volume but also experience high return rates, reducing their overall contribution to net sales. Meanwhile, certain low-performing products remain widely distributed, indicating potential inefficiencies in product portfolio management.
+
 Key dashboard view:
 ![Product Analysis](product-analysis.JPG)
 
@@ -53,6 +59,8 @@ Focus areas include:
 - Performance variation across sales team  
 
 This supports better incentive alignment and performance management.
+
+Key Insight: Sales performance varies significantly across salesmen, with some achieving high sales but also high return rates. This suggests a need to align incentives with net sales performance and improve accountability for product returns.
 
 Key dashboard view:
 ![Salesman Analysis](salesman-analysis.JPG)
