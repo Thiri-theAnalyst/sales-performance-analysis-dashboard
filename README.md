@@ -11,6 +11,39 @@ However, challenges exist in tracking performance, managing product returns, and
 - Which outlets and products are driving growth vs losses?
 - What is the impact of product returns on net sales?
 - Which areas require immediate business attention?
+  
+## Dashboard Structure & Analysis
+
+### Executive Overview
+Provides a high-level summary of overall business performance, including net sales, gross sales, total returns, return rate, and MoM growth.  
+This section helps stakeholders quickly assess whether the business is improving or declining.
+
+### Outlet Analysis
+Analyzes performance across different outlets to identify top-performing and underperforming locations.  
+Focus areas include:
+- Net sales contribution by outlet  
+- Return volume by outlet  
+- Sales distribution efficiency  
+
+This helps identify operational issues and opportunities at the outlet level.
+
+### Product Analysis
+Evaluates product-level performance to understand which products drive revenue and which contribute to losses.  
+Focus areas include:
+- Top-selling products  
+- High return rate products  
+- Product contribution to total sales  
+
+This helps optimize product mix and reduce inefficiencies.
+
+### Salesman Analysis
+Examines individual salesman performance to identify productivity gaps and operational inconsistencies.  
+Focus areas include:
+- Net sales vs return rate by salesman  
+- Contribution to overall sales  
+- Performance variation across sales team  
+
+This supports better incentive alignment and performance management.
 
 ## Data Understanding
 
