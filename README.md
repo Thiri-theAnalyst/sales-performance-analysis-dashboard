@@ -18,7 +18,8 @@ However, challenges exist in tracking performance, managing product returns, and
 Provides a high-level summary of overall business performance, including net sales, gross sales, total returns, return rate, and MoM growth.  
 This section helps stakeholders quickly assess whether the business is improving or declining.
 
-![Executive Overview](executive -overview.JPG)
+Key dashboard view:
+![Executive Overview](executive-overview.JPG)
 
 ### Outlet Analysis
 Analyzes performance across different outlets to identify top-performing and underperforming locations.  
@@ -29,6 +30,7 @@ Focus areas include:
 
 This helps identify operational issues and opportunities at the outlet level.
 
+Key dashboard view:
 ![Outlet Analysis](outlet-analysis.JPG)
 
 ### Product Analysis
@@ -40,6 +42,7 @@ Focus areas include:
 
 This helps optimize product mix and reduce inefficiencies.
 
+Key dashboard view:
 ![Product Analysis](product-analysis.JPG)
 
 ### Salesman Analysis
@@ -51,6 +54,7 @@ Focus areas include:
 
 This supports better incentive alignment and performance management.
 
+Key dashboard view:
 ![Salesman Analysis](salesman-analysis.JPG)
 
 ## Data Understanding
